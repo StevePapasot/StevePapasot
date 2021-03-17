@@ -7,3 +7,4 @@
 - 📫 How to reach me on github account and in my email: stevepap460@gmail.com
 
 My instagram account: (https://www.instagram.com/stavros_papasotiropoulos/) 
+My Discord server: (https://discord.gg/6KY3ufpGtr)
