@@ -6,7 +6,7 @@
 - 🤼 I’m looking to collaborate on web design
 - 📫 How to reach me on github account and in my email: spapasotiropoulos@gmail.com
 
-Certifications:
+###Certifications:
 1) Meta Front-End Developer.
 2) Google UX Design Professional Certificate.
 
