@@ -1,4 +1,4 @@
-#  Who I am!
+#  Who am I?
 
 - 👋 Hi, I’m @StevePapasot
 - 👀 I’m interested in web developement
