@@ -7,7 +7,7 @@
 - 📫 How to reach me on github account and in my email: spapasotiropoulos@gmail.com
 
   
-## 🚀 About Me: Bridging Front-End Brilliance with a Passion for Ethical Hacking
+## 🚀 About Me: Bridging Front-End Brilliance with a Passion for Ethical Hacking https://camo.githubusercontent.com/870d765b5c096038f097185a0ffa08df4011c0491b8039f3a7d5eeebf4d82c7e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966
 
 Greetings! I'm a Front-End Developer with an insatiable curiosity for the world of hacking. My journey began in the realm of web development, where I craft seamless and visually captivating user interfaces using HTML, CSS, JavaScript, and React. However, my passion extends beyond pixels and code—I harbor a profound interest in ethical hacking. With a commitment to cybersecurity, I constantly explore the dynamic intersection between creative design and secure functionality. Leveraging my skills in both arenas, I strive to build digital experiences that not only captivate users but also withstand the ever-evolving landscape of cybersecurity challenges. Join me on this exciting journey where the artistry of front-end development meets the strategic thinking of ethical hacking, forging a unique path in the tech landscape. Let's create not just beautiful websites, but robust and secure digital environments.
 
