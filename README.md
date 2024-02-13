@@ -6,7 +6,6 @@
 - 🤼 I’m looking to collaborate on web design
 - 📫 How to reach me on github account and in my email: spapasotiropoulos@gmail.com
 
-
   
 ## 🚀 About Me: Bridging Front-End Brilliance with a Passion for Ethical Hacking 
 Greetings! I'm a Front-End Developer with an insatiable curiosity for the world of hacking. My journey began in the realm of web development, where I craft seamless and visually captivating user interfaces using HTML, CSS, JavaScript, and React. However, my passion extends beyond pixels and code—I harbor a profound interest in ethical hacking. With a commitment to cybersecurity, I constantly explore the dynamic intersection between creative design and secure functionality. Leveraging my skills in both arenas, I strive to build digital experiences that not only captivate users but also withstand the ever-evolving landscape of cybersecurity challenges. Join me on this exciting journey where the artistry of front-end development meets the strategic thinking of ethical hacking, forging a unique path in the tech landscape. Let's create not just beautiful websites, but robust and secure digital environments.
