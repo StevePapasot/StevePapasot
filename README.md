@@ -25,6 +25,7 @@ Greetings! I'm a Front-End Developer with an insatiable curiosity for the world 
 - Nessus
 - Hydra
 - JohnTheRipper
+- WireShark
 
 ## Certifications🎓:
 1) Meta Front-End Developer.
