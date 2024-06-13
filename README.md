@@ -18,6 +18,14 @@ Greetings! I'm a Front-End Developer with an insatiable curiosity for the world 
 - React
 - Python
 
+### ETHICAL HACKING
+- Nmap
+- Metasploit
+- BurpSuite
+- Nessus
+- Hydra
+- JohnTheRipper
+
 ## Certifications🎓:
 1) Meta Front-End Developer.
 ![image](https://github.com/StevePapasot/StevePapasot/assets/75527414/65776527-c7d7-4e93-ab94-01fba93419fd)
