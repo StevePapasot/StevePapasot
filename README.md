@@ -29,6 +29,7 @@ Greetings! I'm a Front-End Developer with an insatiable curiosity for the world 
 
 ## Certifications🎓:
 1)eCPPT Professional Penetration Tester
+
 ![image](https://github.com/user-attachments/assets/d909c2cd-fe68-4f9d-96ac-c956ebe36fcc)
 
 2) Meta Front-End Developer.
