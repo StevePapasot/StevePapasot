@@ -8,15 +8,7 @@
 
   
 ## 🚀 About Me: Bridging Front-End Brilliance with a Passion for Ethical Hacking 
-Greetings! I'm a Front-End Developer with an insatiable curiosity for the world of hacking. My journey began in the realm of web development, where I craft seamless and visually captivating user interfaces using HTML, CSS, JavaScript, and React. However, my passion extends beyond pixels and code—I harbor a profound interest in ethical hacking. With a commitment to cybersecurity, I constantly explore the dynamic intersection between creative design and secure functionality. Leveraging my skills in both arenas, I strive to build digital experiences that not only captivate users but also withstand the ever-evolving landscape of cybersecurity challenges. Join me on this exciting journey where the artistry of front-end development meets the strategic thinking of ethical hacking, forging a unique path in the tech landscape. Let's create not just beautiful websites, but robust and secure digital environments.
-
-### FRONT-END DEVELOPMENT
-- HTML
-- CSS
-- Bootstrap
-- JavaScript
-- React
-- Python
+Hello! I’m a 26-year-old tech enthusiast with a Bachelor's degree in Educational Electrical Engineering, driven by a deep passion for technology, digital defense, and lifelong learning. My journey began in web development and gradually evolved into cybersecurity, where I found my true calling—protecting systems, detecting threats, and securing digital environments. Currently I am working as L1 SOC analyst but the previous years I have been working as a WordPress Developer.
 
 ### ETHICAL HACKING
 - Nmap
@@ -26,6 +18,15 @@ Greetings! I'm a Front-End Developer with an insatiable curiosity for the world 
 - Hydra
 - JohnTheRipper
 - WireShark
+
+### FRONT-END DEVELOPMENT
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
+- React
+- Python
+
 
 ## Certifications🎓:
 1)eCPPT Professional Penetration Tester
