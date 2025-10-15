@@ -1,9 +1,8 @@
 #  Who am I?
 
 - 👋 Hi, I’m @StevePapasot
-- 👀 I’m interested in web developement
+- 👀 I’m interested in ethical hacking
 - 💻 I’m a self-taught web developer.
-- 🤼 I’m looking to collaborate on web design
 - 📫 How to reach me on github account and in my email: spapasotiropoulos@gmail.com
 
   
